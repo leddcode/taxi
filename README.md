@@ -1,7 +1,7 @@
 # Network Traffic Taxi
 
 A lightweight Python CLI tool to monitor network traffic, built with `scapy`.  
-Capture IP, TCP, UDP, and HTTP details—including full URLs, parameters, and headers—right from your terminal.
+Capture IP, TCP, UDP, and HTTP details, including full URLs, parameters, and headers right from your terminal.
 
 ### Features
 ✅ Monitors all network traffic on a chosen interface.  
